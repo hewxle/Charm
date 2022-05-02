@@ -1,0 +1,9 @@
+{
+  "template": {
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "charm:item/village_clock_VARIANT"
+    }
+  },
+  "variants": "village_clock"
+}
